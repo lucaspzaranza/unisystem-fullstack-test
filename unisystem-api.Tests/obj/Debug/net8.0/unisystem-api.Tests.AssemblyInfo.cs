@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("unisystem-api.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac67f42a0fb0d04842296bc8beda5bffc4add0ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("unisystem-api.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("unisystem-api.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

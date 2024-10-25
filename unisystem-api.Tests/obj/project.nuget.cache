@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LVIKs8mHU0b+/97Vagk4iXkwhw3IqTcrJWBvKghRe4QWL3I0Hr/mHdOoEW2GMXSXm5VGFyY0OInhTHF0Qt8QwA==",
+  "dgSpecHash": "/iDjVk73rwC33qASGAvBxmKed0leRs8g8Uonp1k3tv66wFn5ayFje8gunUiSWtC11URG6tuEgRDqM9AkVJOEfQ==",
   "success": true,
   "projectFilePath": "D:\\Lucas\\Dev\\UniSystem\\unisystem-fullstack-test\\unisystem-api.Tests\\unisystem-api.Tests.csproj",
   "expectedPackageFiles": [
@@ -93,6 +93,7 @@
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.10\\microsoft.entityframeworkcore.analyzers.8.0.10.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.10\\microsoft.entityframeworkcore.inmemory.8.0.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.10\\microsoft.entityframeworkcore.relational.8.0.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
@@ -135,6 +136,7 @@
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.6\\microsoft.visualstudio.web.codegeneration.8.0.6.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.6\\microsoft.visualstudio.web.codegeneration.core.8.0.6.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.6\\microsoft.visualstudio.web.codegeneration.design.8.0.6.nupkg.sha512",

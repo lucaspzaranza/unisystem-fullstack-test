@@ -506,3 +506,4 @@ D:\Lucas\Dev\UniSystem\unisystem-fullstack-test\unisystem-api\obj\Debug\net8.0\r
 D:\Lucas\Dev\UniSystem\unisystem-fullstack-test\unisystem-api\obj\Debug\net8.0\unisystem-api.pdb
 D:\Lucas\Dev\UniSystem\unisystem-fullstack-test\unisystem-api\obj\Debug\net8.0\unisystem-api.genruntimeconfig.cache
 D:\Lucas\Dev\UniSystem\unisystem-fullstack-test\unisystem-api\obj\Debug\net8.0\ref\unisystem-api.dll
+D:\Lucas\Dev\UniSystem\unisystem-fullstack-test\unisystem-api\obj\Debug\net8.0\unisystem-api.sourcelink.json

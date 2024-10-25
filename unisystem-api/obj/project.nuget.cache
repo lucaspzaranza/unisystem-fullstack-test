@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZD3TcAUPpBsBPL6VF4JFFeGp1LRlYCTakVjbK5+KQCxqXxBtPXe4/nR5SmqNX7bhKpXSw6K0jRuWG+rgRPGEA==",
+  "dgSpecHash": "SAVBYWK9us2mx5EbmO6bTTG/VsMYNML3tn4T1TrvJK0eJynyXKxbvtxcZYDeQ/RnXChDZmpDftZil/7UNzvhCQ==",
   "success": true,
   "projectFilePath": "D:\\Lucas\\Dev\\UniSystem\\unisystem-fullstack-test\\unisystem-api\\unisystem-api.csproj",
   "expectedPackageFiles": [
@@ -106,6 +106,7 @@
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.jsinterop\\8.0.10\\microsoft.jsinterop.8.0.10.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.net.stringtools\\17.8.3\\microsoft.net.stringtools.17.8.3.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.6\\microsoft.visualstudio.web.codegeneration.8.0.6.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.6\\microsoft.visualstudio.web.codegeneration.core.8.0.6.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.6\\microsoft.visualstudio.web.codegeneration.design.8.0.6.nupkg.sha512",

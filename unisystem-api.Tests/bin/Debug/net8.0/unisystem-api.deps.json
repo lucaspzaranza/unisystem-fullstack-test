@@ -13,6 +13,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
           "Microsoft.AspNetCore.OpenApi": "8.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.19.5",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.6",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.10",
           "Swashbuckle.AspNetCore": "6.9.0"
@@ -1380,6 +1381,7 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.5": {},
       "Microsoft.VisualStudio.Web.CodeGeneration/8.0.6": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "8.0.1",
@@ -2578,6 +2580,13 @@
       "sha512": "sha512-tTaBT8qjk3xINfESyOPE2rIellPvB7qpVqiWiyA/lACVvz+xOGiXhFUfohcx82NLbi5avzLW0lx+s6oAqQijfw==",
       "path": "microsoft.openapi/1.6.14",
       "hashPath": "microsoft.openapi.1.6.14.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Kaa1rBZdJFq5A0qgAcl6Bmk/UqLXTq9acEqxUlPEBA8oscmakLfkvuSXfG7Wa9t1/keaT85EuuDNgOo+Z9VYOQ==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.19.5",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
     },
     "Microsoft.VisualStudio.Web.CodeGeneration/8.0.6": {
       "type": "package",
